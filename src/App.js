@@ -4,6 +4,8 @@ import './App.css';
 // Constants
 const TWITTER_HANDLE = '_buildspace';
 const TWITTER_LINK = `https://twitter.com/${TWITTER_HANDLE}`;
+const TWITTER_HANDLE_MATTHEW = 'siusiuhin';
+const TWITTER_LINK_MATTHEW= `https://twitter.com/${TWITTER_HANDLE_MATTHEW}`;
 
 const App = () => {
   return (
